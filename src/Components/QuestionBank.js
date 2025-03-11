@@ -1,4 +1,6 @@
-const QuestonBank = [
+// QuestionBank.js
+
+const qBank = [
     {
         id: 1,
         question: "What is the capital of Haryana?",
@@ -31,4 +33,4 @@ const QuestonBank = [
     },
 ]
 
-export default QuestonBank;
+export default qBank;
